@@ -6,7 +6,7 @@
 * Tested on:  Ventura 13.3.1
 * Category:   Exfiltration
 
-# DESCRIPTION
+# Description
 
 Exfilter all the documents from the principal folders on unlocked MacOS targets.
 Stashes them in /loot/MacDocsExfill/$hostname grouped in subfolders:
@@ -17,7 +17,7 @@ Stashes them in /loot/MacDocsExfill/$hostname grouped in subfolders:
 | Desktop            | All the docs in /root/Desktop folder         |
 | Downloads          | All the docs in /root/Downloads folder       |
 
-# IMAGE FORMATS
+# Image formats
 
 | Format             | 
 | ------------------ |
@@ -25,7 +25,7 @@ Stashes them in /loot/MacDocsExfill/$hostname grouped in subfolders:
 | .xlsx              | 
 | .pdf               |
 
-# LED STATUS
+# LED Status
 
 | LED                | Status                                       |
 | ------------------ | -------------------------------------------- |
